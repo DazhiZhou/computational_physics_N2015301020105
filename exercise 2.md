@@ -1,4 +1,4 @@
-# Exercise 2 :Make the name animate
+# Exercise 3 :Make the name animate
 ## Abstract
    Try to use Python to make the name animate.
 ## Method
