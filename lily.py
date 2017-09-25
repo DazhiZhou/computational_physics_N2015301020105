@@ -24,14 +24,8 @@ plt.ylim(-0.1, 1)
 plt.xlabel('x')
 plt.title('Scatter Point')
  
-# interval
-# repeat
-# frames
-# fargs
-# init_func
 anim = animation.FuncAnimation(fig1, update_point,num_point)
  
-#anim = animation.FuncAnimation(fig1, update_point,frames=num_point, interval=50, blit=False, repeat=False)
  
 plt.show()
 
