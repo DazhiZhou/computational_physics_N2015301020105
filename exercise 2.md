@@ -6,7 +6,7 @@
     First make an array named 'data', which concludes all the corrdinates composing your name.
     Then, using animation to make these points plot on the canvas, one by one.
     To make the case simpe, lets take 'Lily' as an example.
-## Outout
+## Output
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/lily1.png)
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/lily2.png)
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/lily3.png)
