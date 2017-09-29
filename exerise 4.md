@@ -21,4 +21,4 @@ At last, just plot the graph.
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/exercise4-4.png)
 It is strange, isn't? If we make a simple calculation, we will find that the poplulation won't change when we use Euler method. It is attributed 
 the initial data. if we change the data as N0=100, we wii get a graph like the last one 
-![](
+![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/exercise4-5.png)
