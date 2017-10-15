@@ -29,3 +29,7 @@ about 600km, we can recognize the difference caused by altitude.
 By the way, in fact, if without a comparision, it is hard to recognize whether it is the graph where the accelration is related to altitude.
 ## Appendix the source code 
 [Source code 05](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code%205.py)
+## Written at last
+Hitherto,I have have installed pygame on the Anaconda.      
+More details will be showed as soon as I make any progress.
+![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/pic5-5.png)
