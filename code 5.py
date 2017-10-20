@@ -68,4 +68,3 @@ pl.plot(x,y,'r')
 
 
 pl.show()
-print(y[1],y[10],y[20],y[30],vx1)
