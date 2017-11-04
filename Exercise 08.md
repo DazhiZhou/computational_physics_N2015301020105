@@ -20,12 +20,14 @@ period. We'd better change the period of the driving force in order to make the 
 same phase which is also calculated in the last circle.
 ## Output
 ### Poincare sections with different FD
-[source code 8-1](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code%208-1.py)
+[source code 8-1](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code%208-1.py)    
 We have calculate the motion for several FD, where the behaviors are period 1,2,3.
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/pic8-1.png)
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/pic8-2.png)
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/pic8-3.png)
 ### Poincare sections with different angular frequency
+[source code8-2](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code%208-2.py)   
+
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/pic8-4.png)
 ![](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/pic8-5.png)
 ## Conclusion
