@@ -13,4 +13,7 @@
 - [x] [Exercise 07](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/Exercise%2007.md)   
 [source code7-1](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code7-1.py)    
 [source code7-2](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code7-2.py)    
-[source code7-3](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code7-3.py)    
+[source code7-3](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code7-3.py)   
+- [x] [Exercise 08](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/Exercise%2008.md)   
+[source code8-1](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code%208-1.py)   
+[source code8-2](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code%208-2.py)
