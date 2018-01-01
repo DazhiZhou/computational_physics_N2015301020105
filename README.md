@@ -24,4 +24,6 @@
 - [x] [Exercise 11](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/Exercise%2011.md)   
 [source code](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code%2011.py)   
 - [x] [Exercise 12](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/Exercise%2012.md)   
-[source code](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code%2012.py)
+[source code](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/code%2012.py)   
+- [x] [期末大作业：机器学习过滤垃圾邮件](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E4%BD%9C%E4%B8%9A%EF%BC%88%E6%9D%A8%E9%80%B8%E7%BF%94%20%E5%BC%98%E6%AF%852015301020105%EF%BC%89.pdf)   
+[source cose](https://github.com/yyx1996/computational_physics_N2015301020105/blob/master/final%20homework.py)
